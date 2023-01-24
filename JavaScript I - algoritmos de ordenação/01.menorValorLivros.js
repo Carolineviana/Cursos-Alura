@@ -1,4 +1,4 @@
-const arrProdutos = require('./02.listaLivros');
+const livros = require('./02.listaLivros');
 
 function menorValor(arrProdutos, posicaoInicial) {
     let maisBarato = posicaoInicial;
