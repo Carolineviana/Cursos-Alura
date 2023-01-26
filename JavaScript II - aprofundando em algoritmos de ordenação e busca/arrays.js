@@ -48,4 +48,5 @@ const edGalho = [
     }
 ]
 
+
 module.exports = {edFolha, edGalho}
