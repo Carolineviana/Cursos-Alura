@@ -13,6 +13,6 @@ const somaNumerosPequenos = (num1, num2) => {
 }
 
 
-// Hoisting (puxando as declarações para cima do código): arrow function se comporta como expressão
-// funções e var são "listadas" no topo do arquivo.
+// Hoisting (puxando as declarações para cima do código): arrow function se comporta como expressão e também não tem suporte à hoisting.
+// Hoisting: funções e var são "listadas" no topo do arquivo.
 // Operador maior ou igual que >=
